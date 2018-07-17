@@ -1,0 +1,109 @@
+﻿{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://raw.githubusercontent.com/lilaoliveira/Wivy/master/app/Others/4.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/lilaoliveira/Wivy/master/app/Others/4T.jpg"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "_1",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/xiwjgt8tt/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_2",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/a4ok4wlrl/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_3",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/68b88wt29/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_4",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/au7ch8z5t/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_5",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/5vju2q32p/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_6",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/uc1zx8e41/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_7",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/cyrpidb35/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_8",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/jcgslmvep/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_9",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/jcgslm0jl/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_10",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/6l2mf7tdd/image.jpg",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_11",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/5dq77nyy9/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_12",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/wbk49ebvl/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_13",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/ngj9yxkj5/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    },
+    {
+      "name": "_14",
+      "author": "Marília de Oliveira",
+      "url": "https://s19.postimg.cc/sf6sdgw1t/image.png",
+      "collections": "minimalist",
+      "downloadable": false
+    }
+  ]
+}
